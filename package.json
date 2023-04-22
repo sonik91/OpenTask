@@ -1,0 +1,22 @@
+{
+  "name": "opentask",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000O\u0000p\u0000e\u0000n\u0000T\u0000a\u0000s\u0000k\u0000\r\u0000 \u0000",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonik91/OpenTask.git"
+  },
+  "author": "pierre gonet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonik91/OpenTask/issues"
+  },
+  "homepage": "https://github.com/sonik91/OpenTask#readme",
+  "devDependencies": {
+    "electron": "^24.1.2"
+  }
+}
